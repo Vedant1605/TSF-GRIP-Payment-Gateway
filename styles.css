@@ -109,6 +109,9 @@ nav ul li a:hover,
   background: url("images/thank-you.jpg");
   background-size: cover;
 }
+#rpay{
+  background: rgba(255, 0, 0, 0);
+}
 /* Media Querries */
 @media screen and (max-width: 600px) {
   .images {
