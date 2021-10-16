@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: hope-foundation.netlify.app
-Token: 86f02f338a4252fe056ded1d983bed7f424efba4e7f82e829ef1639ffd5bc211
